@@ -1,1 +1,1 @@
-/* alert('Hello'); */
+// some code
