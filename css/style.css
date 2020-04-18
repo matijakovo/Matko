@@ -1,0 +1,217 @@
+body {
+  background-image: url(../images/kily.jpg);
+background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.container {
+    width: 780px;
+    margin: 0 auto;
+    box-shadow: 1px 2px 3px 2px;
+background-image: url(../images/5324.jpg);
+    color:black
+    
+}
+.header {
+    padding: 45px 0 20px 40px
+    
+}
+.menu {
+    background: #3b7687;
+    padding: 6px 0 6px 40px;
+    
+}
+
+.menu a {
+    color: wheat;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+.menu a.active {
+    color: red;
+}
+
+.menu a:hover {
+    color: crimson
+}
+aside {
+    float: left;
+    width: 120px;
+    padding: 30px 0 0 40px;
+    
+}
+
+h1{
+    margin: 0px;
+    color:bisque;
+    font-size: 24px;
+    font-family: "Arial Narrow";
+    font-weight: normal;
+}
+
+h2 {color: wheat;
+    font-size: 15px;
+    margin: 20px 0 5px 0;
+    
+}
+
+.main{
+    margin: 0 0 0 180px;
+    padding: 35px 40px 30px 0;
+    font-family: "Georgia";
+        font-size: 18px;
+    text-emphasis: justify;
+    }
+
+.link-title {
+    text-decoration: none;
+    font-size: 24px;
+    }
+.link-title:hover {
+    color: orangered;
+    font-size: 25px;
+    }
+.separator {
+    color: white;
+    font-size: 11px;
+    
+
+}
+
+
+#home-page img {
+    width: 400px;
+    height: 200px;
+}
+
+
+.main a:hover {
+    color: #444444;
+    }
+footer {
+    padding: 6px 40px 6px 40px;
+    background: #d6d6d6;
+    font-family: "Lucida Sans Unicode";
+    font-size: 12px;
+    text-align: right;}
+
+    
+#text1 {
+        color: white;
+        font-size: 18px;
+            text-align:center;
+        padding: 5px 5px 5px 5px;
+    
+        
+    }
+    
+    
+    
+    
+footer a {
+    text-decoration: none;
+        color: black}
+footer a:hover {
+    color: darkred;
+    
+}
+
+/* about page*/
+about-page home-page img {
+    width: 70%;
+}
+
+.profile-info {
+   font-family: sans-serif;
+    
+     
+}
+.description {
+    clear: both;
+    margin-top: 10px;
+}
+
+#nam:hover { background-color: bisque;   
+}
+
+#email:hover {background-color: bisque;   
+}
+
+#subject:hover {background-color: bisque;
+}
+
+#message:hover {background-color: bisque;}
+
+#sub:hover { background-color: #483a41;
+}
+.big {
+    font-size: 17px;
+    font-family:"Arial";
+    
+}
+#con {
+    font-size: 17px;
+    font-family:"Arial";
+    
+}
+
+#contel:hover { color: red;}
+#conemail:hover {color: red;}
+#chi {color: white;}
+
+.container1 {
+    width: 780px;
+    margin: 0 auto;
+background-image: url(../images/pust.jpg);
+box-shadow: 1px 2px 3px 2px;}
+
+.body1 {background-image: url(../images/port.jpg);
+box-shadow: 1px 2px 3px 2px;}
+
+#text2:hover {
+    color: darkred;
+}
+
+.hoe {
+  position: relative;
+    width: 50%;}
+
+
+.hoe:hover .overlay {
+  opacity: 1;
+    background-color:#4994c0;
+    opacity: 0.8;
+}
+
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: transparent;
+}
+.text3 {
+  color: white;
+  font-size: 25px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.image4 {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+

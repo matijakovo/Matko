@@ -1,0 +1,16 @@
+phone {
+    font-size: 30px;
+    color: red;
+    text-align: center;
+
+    border: 2px red;
+        
+    
+}
+phone:hover {
+    color: bisque
+    
+}
+body {
+ background-image: url(../images/kily.jpg) 
+}
